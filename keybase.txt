@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/vamshi232
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kundanapallyvamshi.github.io
+  * I am vamshi232 (https://keybase.io/vamshi232) on keybase.
+  * I have a public key with fingerprint 6EBF BCE9 FF22 A422 F009  21D9 F946 F033 7672 375D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011ccd2dde48ca9fb2a8263e544dfe6224db95ac2c93f4ad40e4a20ce774b47ece0a",
+      "fingerprint": "6ebfbce9ff22a422f00921d9f946f0337672375d",
+      "host": "keybase.io",
+      "key_id": "f946f0337672375d",
+      "kid": "01011ccd2dde48ca9fb2a8263e544dfe6224db95ac2c93f4ad40e4a20ce774b47ece0a",
+      "uid": "d1164b3afad8ffd76f807aecc91b8219",
+      "username": "vamshi232"
+    },
+    "service": {
+      "hostname": "kundanapallyvamshi.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1588578340,
+  "expire_in": 157680000,
+  "prev": "4090e877481e9856c7112a5a8045e9584eb5eb8ac566135a41b85d949dd7094d",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMI6AnicrZJbSBVBGMePlV00K0qCgqiWMAix3dnZ2wkDlSSiwizIVDrM7Mzq5nH3
+eHbPURHLhwIrijKfIohMLbI72ZUulpGRFR0Juhmlh6KLXYiKLlKzZm89Ni/DfPy+
+//f/f0xnykhfUsKMZ+PKe94l7ki41XEw4lt7rGtODYdtUs35a7gyOnTRIKGOGygz
+CefneIEXBF0ngBAKVR1pBgZIBbJIJQiJQWUAIMGahHSga6IBEYE8hQjwOlUUiKFC
+dcojLp0zTKuEhkNh03KZrEyxgXWqGQYACAJg8LwGBKIZGpQNXhQVWQGiIhHWWGo7
+Xgczh5FDM0yb1dgjMGTvH/x/9h0ZkiOCIEMsIgMR1TCIIhsqryCq65qAVSBoHujQ
+sIXKKaOjqNwpNYEIuNp0jpWjpk69zXpRhpGyiEWQhUIoGKz+g2eUmG5pBP8JGArb
+rq3bQUaWum7I8XtKbnXIa62kODAsGsCmRdhiWUeUhh3Ttji/wEjdNb0pgqSqkqKK
+kE/naFXIDNOA6RGSIqs8O94cGmWSkNd4qrLgqkA1VZJ1RRAAkpDKQ4lqkgoplihW
+kS7JsiBKCLLUEtGgRojCa9Bbu0MrLJvzy8wmKmGSjlliITcSplzt1SvFo3wJSb7R
+iSO8D+dLGjfp7zfkd475VZCQd3j8zPjPsSm9+Sd23Z36JbXo/Ke1+98vezX6bEvf
+kxOzb9P1xQdG9qdUJrdOWfJjTfvMY/OTcp+eGvgSa32eua13VkNLbFF2VvOh5I0p
+iUdXXLs/MHHw5b66rfHalS/iDbEJ07Tz3cXbU1cXVV7PmdzTOL3Jrpc3oQ3nTvv2
+/Jw/6ey7KKo/mt/W/PFeoZi6XL76FT+8nJOGW7vvVATbe3JjdsfSqoqLhZ/XvRm8
+hU6Kd1q2tHaYC6au0jd3Pui9ULe3Le0ZKc4s+H4jNvfD4OLY12A8c/WZlYe6Ngb9
+kZv4W09W+GPf8RlN3TcfTcubl73wcWVBcmNzW3/80sDbI+tzX+/+/Bs0O1SU
+=asVD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vamshi232
+
+==================================================================
